@@ -20,7 +20,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  static const String _API_KEY = "AIzaSyCXy7xhU-N1cvz4tmnpfISikb5Bcfgm33w";
+  static const String _API_KEY = "YOUR_API_KEY";
   static const String baseUrl =
       "https://maps.googleapis.com/maps/api/place/nearbysearch/json";
 
